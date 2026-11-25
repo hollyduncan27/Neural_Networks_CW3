@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "Neural_Networks_CW3",
+			"path": "."
+		},
+		{
+			"name": "fashion-mnist-master",
+			"path": "../../../../../Downloads/fashion-mnist-master"
+		}
+	],
+	"settings": {}
+}
